@@ -2,6 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>ReferenceThisNoteAppOfYourChoiceThisService</string>
+	<key>CFBundleIdentifier</key>
+	<string>net.wafflesoftware.ThisService.generated-service.ReferenceThisNoteAppOfYourChoice</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string></string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>NSBGOnly</key>
+	<string>1</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
 	<key>NSServices</key>
 	<array>
 		<dict>
@@ -17,6 +35,10 @@
 				<key>NSApplicationIdentifier</key>
 				<string>com.thirdstreetsoftware.sente6</string>
 			</dict>
+			<key>NSTimeout</key>
+			<string>15000</string>
+			<key>NSUserData</key>
+			<string>service-quote with pg number select editor.scpt</string>
 		</dict>
 	</array>
 </dict>
