@@ -48,7 +48,7 @@
 			<key>NSTimeout</key>
 			<string>15000</string>
 			<key>NSUserData</key>
-			<string>service-quote with pg number select editor.scpt</string>
+			<string>service_cite-in-word-processor-of-your-choice-with-pn.scpt</string>
 		</dict>
 	</array>
 	<key>ServiceSkeletonPortName</key>
